@@ -1,5 +1,9 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/p5" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="d3.v3" type="javaScript">
       <properties>
         <sourceFilesUrls>
