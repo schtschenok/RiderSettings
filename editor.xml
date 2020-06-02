@@ -27,4 +27,5 @@
     <option name="AUTO_WHITESPACE_AFTER_COLON" value="false" />
     <option name="ESCAPE_PASTED_TEXT" value="false" />
   </component>
+  <component name="LiveEditOptions" chromeAutoDelay="400" chromeUpdateJSOnChanges="true" nodeAutoDelay="400" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" updateFilesToCompile="true" useJBChromeExtension="true" />
 </application>
