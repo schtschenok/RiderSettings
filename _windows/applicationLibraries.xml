@@ -56,5 +56,16 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="p5" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_p5@1.0.0_lib_p5.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_p5@1.0.0_lib_p5.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
   </component>
 </application>
